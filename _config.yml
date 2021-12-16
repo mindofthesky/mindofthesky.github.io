@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "개발하자"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/몰?루.jpeg"
   bio              : "최대한 해보고 싶었던 개발을 해보자 "
   location         : "Someday"
   email            :
