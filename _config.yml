@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "개발하자"
-  avatar           : "/assets/몰?루.jpeg"
+  avatar           : "/assets/몰?루.jpg"
   bio              : "최대한 해보고 싶었던 개발을 해보자 "
   location         : "Someday"
   email            :
@@ -244,7 +244,7 @@ whitelist:
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
+#    expect broken links (especially with breadcrumbs enabled)     
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
