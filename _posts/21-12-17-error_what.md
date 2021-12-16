@@ -1,6 +1,9 @@
-title: VSCODE Error Setting.json 
+VSCODE Error Setting.json 
 
-VSCODE를 사용한지 왜 발생하는 이유를 현재 파악하지는 못했음 H1 
+===========================
+
+VSCODE를 사용한지 왜 발생하는 이유를 현재 파악하지는 못했음 
+--------------------------------------
 
 현재 VSCOD를 작성해서 Code-Runner에서 "code-runner.executorMap": 에러 발생중 
 
