@@ -1,5 +1,4 @@
 VSCODE Error Setting.json 
-
 ===========================
 
 VSCODE를 사용한지 왜 발생하는 이유를 현재 파악하지는 못했음 
