@@ -1,3 +1,6 @@
+categories:
+  -leetcode
+
 답 
 
 해설 추후 작성 
