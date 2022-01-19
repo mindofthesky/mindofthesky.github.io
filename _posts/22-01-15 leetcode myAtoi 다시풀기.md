@@ -1,6 +1,7 @@
 
 
 class Solution:
+
     def myAtoi(self, s: str) -> int:
         sen = s.lstrip()
         sen = sen.split(' ')
