@@ -5,6 +5,7 @@ Given a string s, find the length of the longest substring without repeating cha
 
 
 class Solution:
+    
     def lengthOfLongestSubstring(self, s: str) -> int:
         # 기초 변수 설정
         sub = {};
